@@ -1,0 +1,10 @@
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_3\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_3\Task_1\bin\Debug\Task_1.exe
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_3\Task_1\bin\Debug\Task_1.pdb
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_3\Task_1\obj\Debug\Task_1.csproj.AssemblyReference.cache
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_3\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_3\Task_1\obj\Debug\Task_1.exe
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_3\Task_1\obj\Debug\Task_1.pdb
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_3\Task_1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_3\Task_1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_3\Task_1\obj\Debug\Task_1.csproj.Up2Date
